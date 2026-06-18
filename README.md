@@ -3,6 +3,7 @@
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE) [![DOI](https://img.shields.io/badge/DOI-pending-lightgrey.svg)](20_DOI_Application_Guide.md)
 
 > 把**會議紀錄**變成**顧問判斷**。核心:**填滿格子不等於思考;價值在「對角線」——把不同對象、不同時間的點連成一個建議。**
+> 🌐 **線上 demo(免下載)**:[介紹首頁](https://morrislu-taipei.github.io/consultant-thinking-framework/) ｜ [互動書](https://morrislu-taipei.github.io/consultant-thinking-framework/17_Interactive_Site.html)(GitHub Pages)。
 > 作者:**Morris (Yeh-Hsing) Lu（盧業興）**｜affiliation: **Tiger AI**｜ORCID [0009-0006-5373-0586](https://orcid.org/0009-0006-5373-0586)
 
 這是 **AI-Native 顧問方法論系列**的 **上集 / Book I**:訓練「顧問怎麼想」。
