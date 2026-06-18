@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>顧問思考能力系統 · Consulting Thinking Capability System (Book I)</title>
+<style>
+  /* TigerAI Fresh Business Infographic — 官方視覺標準 */
+  :root{--navy:#102F4C;--teal:#167C77;--teal-pale:#DDF3F1;--orange:#EE9E39;--orange-dark:#B66B16;--orange-pale:#FFF0DA;
+    --muted:#5D7589;--border:#D8E8EE;--card:#fff;--sh:0 1px 2px rgba(16,24,40,.04),0 14px 40px rgba(31,71,92,.08)}
+  *{box-sizing:border-box}
+  body{margin:0;font-family:"Noto Sans TC","Microsoft JhengHei","PingFang TC",system-ui,sans-serif;color:var(--navy);line-height:1.65;
+    background:radial-gradient(circle at 12% 8%,#DFF4F2 0,transparent 27%),radial-gradient(circle at 92% 14%,#FFF0D9 0,transparent 28%),linear-gradient(135deg,#F9FCFF,#F8F6EF);min-height:100vh}
+  .topbar{position:sticky;top:0;z-index:20;display:flex;align-items:center;gap:14px;padding:12px 22px;background:rgba(255,255,255,.85);backdrop-filter:blur(8px);border-bottom:1px solid var(--border)}
+  .topbar img{height:30px;display:block}
+  .chip{display:flex;flex-direction:column;margin-left:4px}
+  .chip b{font-size:.95rem}.chip span{color:var(--muted);font-size:.78rem}
+  .sp{flex:1}
+  .toggle{border:1px solid var(--border);background:#fff;color:var(--navy);border-radius:999px;padding:6px 13px;cursor:pointer;font-weight:600;font-size:.82rem}
+  .toggle:hover{border-color:var(--teal)}
+  .wrap{max-width:980px;margin:0 auto;padding:30px 24px 70px}
+  .eyebrow{font-size:.74rem;letter-spacing:.16em;color:var(--teal);font-weight:700}
+  h1{font-size:2rem;font-weight:800;margin:.15em 0 .1em}
+  .lead{color:var(--muted);font-size:1.05rem;margin:.2em 0 0;max-width:760px}
+  .cta{display:flex;flex-wrap:wrap;gap:10px;margin:22px 0 6px}
+  .btn{display:inline-flex;align-items:center;gap:8px;text-decoration:none;border-radius:11px;padding:11px 20px;font-weight:700;font-size:.95rem;box-shadow:var(--sh)}
+  .btn.primary{background:linear-gradient(135deg,#EE9E39,#D98220);color:#fff}
+  .btn.teal{background:var(--teal-pale);color:var(--teal);border:1px solid #A8DCD9;box-shadow:none}
+  .btn.ghost{background:#fff;color:var(--navy);border:1px solid var(--border);box-shadow:none}
+  .card{background:var(--card);border:1px solid var(--border);border-radius:20px;padding:22px 26px;margin:16px 0;box-shadow:var(--sh)}
+  .card h2{font-size:1.2rem;margin:.1em 0 .5em;display:flex;align-items:center;gap:9px}
+  .card h2::before{content:"";width:5px;height:20px;border-radius:3px;background:var(--teal)}
+  .matrix{display:grid;grid-template-columns:1fr auto 1fr;gap:14px;align-items:stretch;margin-top:4px}
+  @media(max-width:760px){.matrix{grid-template-columns:1fr}.arrow{transform:rotate(90deg)}}
+  .book{border:1px solid var(--border);border-radius:16px;padding:18px;background:#fbfdff}
+  .book.b1{border-top:4px solid var(--teal)} .book.b2{border-top:4px solid var(--orange)}
+  .tag{display:inline-block;font-size:.7rem;padding:2px 9px;border-radius:999px;font-weight:700}
+  .b1 .tag{background:var(--teal-pale);color:var(--teal)} .b2 .tag{background:var(--orange-pale);color:var(--orange-dark)}
+  .book h3{font-size:1.05rem;margin:.4em 0 .15em}
+  .book .q{color:var(--muted);font-style:italic;font-size:.9rem;margin:.1em 0 .6em}
+  .book a{color:var(--teal);text-decoration:none;font-weight:600;font-size:.86rem}
+  .book .links{display:flex;flex-wrap:wrap;gap:6px 14px;margin-top:8px;font-size:.86rem}
+  .arrow{display:flex;align-items:center;justify-content:center;font-size:1.8rem;color:var(--teal)}
+  ul{margin:.4em 0;padding-left:1.2em}ul li{margin:.2em 0}
+  .ladder{display:flex;flex-wrap:wrap;gap:8px;margin-top:8px}
+  .lv{border:1px solid var(--border);border-radius:10px;padding:7px 12px;background:#fbfdff;font-size:.85rem;font-weight:600}
+  .lv b{color:var(--teal)} .lv.gate b{color:var(--orange-dark)}
+  .foot{color:var(--muted);font-size:.8rem;border-top:1px solid var(--border);padding-top:16px;margin-top:26px}
+  code{background:var(--teal-pale);border-radius:6px;padding:1px 6px;font-size:.85rem;color:var(--teal)}
+  .en{display:none}
+  body.lang-en .zh{display:none} body.lang-en .en{display:inline} body.lang-en li .en,body.lang-en .book .en{display:block}
+</style>
+</head>
+<body class="lang-zh">
+<header class="topbar">
+  <img src="tigerai-logo.png" alt="Tiger AI">
+  <div class="chip"><b><span class="zh">顧問思考能力系統</span><span class="en">Consulting Thinking Capability System</span></b>
+    <span>Book I · <span class="zh">顧問怎麼想</span><span class="en">how a consultant thinks</span></span></div>
+  <div class="sp"></div>
+  <button class="toggle" onclick="document.body.classList.toggle('lang-en')">中 / EN</button>
+</header>
+
+<div class="wrap">
+  <div class="eyebrow">AI-NATIVE CONSULTING METHODOLOGY SERIES · BOOK I</div>
+  <h1><span class="zh">把會議紀錄,變成顧問判斷</span><span class="en">From meeting notes to consulting judgment</span></h1>
+  <p class="lead"><span class="zh">核心:填滿格子不等於思考;價值在「對角線」——把不同對象、不同時間的點連成一個建議。</span><span class="en">Core: filling boxes isn't thinking; the value is in the "diagonal" — connecting points across different subjects and times into one recommendation.</span></p>
+
+  <div class="cta">
+    <a class="btn primary" href="17_Interactive_Site.html"><span class="zh">▶ 開啟互動書(中)</span><span class="en">▶ Open interactive book (ZH)</span></a>
+    <a class="btn teal" href="17_Interactive_Site_EN.html">▶ English</a>
+    <a class="btn ghost" href="SERIES_ROADMAP.html"><span class="zh">系列路線圖</span><span class="en">Series roadmap</span></a>
+    <a class="btn ghost" href="https://github.com/MorrisLu-Taipei/consultant-thinking-framework">GitHub</a>
+  </div>
+
+  <div class="card">
+    <h2><span class="zh">這是什麼</span><span class="en">What this is</span></h2>
+    <p><span class="zh">把顧問思考<b>操作化成可訓練、可評分、可驗證的能力系統</b>(C1–C5 能力梯 + rubric + 教練 SOP + 前後測)。站在 Ohmae 3C、TOWS、Temporal Competitive Analysis、Kano 之上;<b>未宣稱首創、尚待小樣本實證</b>。</span>
+       <span class="en">An operationalized system that makes consulting thinking <b>trainable, scorable, and verifiable</b> (a C1–C5 capability ladder + rubric + coaching SOP + pre/post protocol). Built on Ohmae's 3C, TOWS, Temporal Competitive Analysis, and Kano; <b>not claimed as first-creation; pending small-sample validation.</b></span></p>
+    <div class="ladder">
+      <span class="lv"><b>C1</b> <span class="zh">記錄</span><span class="en">Record</span></span>
+      <span class="lv"><b>C2</b> <span class="zh">整理</span><span class="en">Organize</span></span>
+      <span class="lv"><b>C3</b> <span class="zh">分析</span><span class="en">Analyze</span></span>
+      <span class="lv gate"><b>C4</b> <span class="zh">規劃</span><span class="en">Plan</span></span>
+      <span class="lv gate"><b>C5</b> <span class="zh">顧問</span><span class="en">Advise</span></span>
+    </div>
+  </div>
+
+  <div class="card">
+    <h2><span class="zh">這是一套上下兩集的系列</span><span class="en">A two-book series</span></h2>
+    <div class="matrix">
+      <div class="book b1">
+        <span class="tag">BOOK I · <span class="zh">本 repo</span><span class="en">this repo</span></span>
+        <h3><span class="zh">顧問思考能力系統</span><span class="en">Consulting Thinking Capability System</span></h3>
+        <div class="q"><span class="zh">顧問怎麼想?(C1–C5 顧問能力)</span><span class="en">How does a consultant think? (C1–C5 capability)</span></div>
+        <div class="links">
+          <a href="17_Interactive_Site.html"><span class="zh">互動書 ↗</span><span class="en">Interactive book ↗</span></a>
+          <a href="https://github.com/MorrisLu-Taipei/consultant-thinking-framework">GitHub ↗</a>
+        </div>
+      </div>
+      <div class="arrow">➜</div>
+      <div class="book b2">
+        <span class="tag">BOOK II</span>
+        <h3><span class="zh">AI 轉型顧問導入方法論</span><span class="en">AI-Transformation Consulting Delivery</span></h3>
+        <div class="q"><span class="zh">顧問案怎麼跑?(企業 L1–L5 成熟度)</span><span class="en">How does an engagement run? (enterprise L1–L5)</span></div>
+        <div class="links">
+          <a href="https://morrislu-taipei.github.io/GenAI-Consulting-Methodology-Toolkit/00_Overview/17_Interactive_Site.html"><span class="zh">互動書 ↗</span><span class="en">Interactive book ↗</span></a>
+          <a href="https://github.com/MorrisLu-Taipei/GenAI-Consulting-Methodology-Toolkit">GitHub ↗</a>
+          <a href="https://doi.org/10.5281/zenodo.20261680">DOI ↗</a>
+        </div>
+      </div>
+    </div>
+    <p style="margin-top:12px;color:var(--muted);font-size:.9rem"><span class="zh">上集訓練顧問<b>怎麼想</b>;下集訓練顧問案<b>怎麼跑</b>。顧問需達 <code>C4</code> 才能獨立執行下集的企業 L1–L5 診斷。<b>C 問人、L 問企業</b>。</span>
+       <span class="en">Book I trains how a consultant <b>thinks</b>; Book II trains how an engagement <b>runs</b>. A consultant needs <code>C4</code> to run Book II's enterprise L1–L5 diagnosis. <b>C = person, L = enterprise.</b></span></p>
+  </div>
+
+  <div class="card">
+    <h2><span class="zh">怎麼開始</span><span class="en">How to start</span></h2>
+    <ul>
+      <li><span class="zh"><b>互動書(免安裝)</b>:瀏覽器開 <a href="17_Interactive_Site.html">17_Interactive_Site.html</a>——自評計分器、可複製 prompt、Webhook 送交。</span><span class="en"><b>Interactive book (no install)</b>: open <a href="17_Interactive_Site.html">17_Interactive_Site.html</a> — self-scoring rubric, copy-paste prompts, webhook submit.</span></li>
+      <li><span class="zh"><b>新手</b>:GitHub 上的 <code>10_Beginner_Consultant_Guide.md</code>(5 步交出第一份顧問式摘要)。</span><span class="en"><b>Beginners</b>: <code>10_Beginner_Consultant_Guide.md</code> on GitHub (5 steps to your first consulting summary).</span></li>
+      <li><span class="zh"><b>AI 教練</b>:<code>consulting-thinking-coach</code> skill(Claude Code / Codex / Antigravity)。</span><span class="en"><b>AI coach</b>: the <code>consulting-thinking-coach</code> skill.</span></li>
+    </ul>
+  </div>
+
+  <div class="foot">
+    <span class="zh">作者 Morris (Yeh-Hsing) Lu(盧業興)· affiliation: Tiger AI · ORCID 0009-0006-5373-0586 · Apache License 2.0。誠實揭露:方法論為實務綜合(尚未實證);範例為 AI-Simulated(用 ABC公司 等代稱);未宣稱 peer-reviewed。</span>
+    <span class="en">Author: Morris (Yeh-Hsing) Lu · affiliation: Tiger AI · ORCID 0009-0006-5373-0586 · Apache License 2.0. Honest disclosure: methodology synthesis (not yet validated); cases are AI-Simulated ("Company ABC"); not peer-reviewed.</span>
+  </div>
+</div>
+<script>if(location.hash.toLowerCase()==='#en')document.body.classList.replace('lang-zh','lang-en');</script>
+</body>
+</html>
