@@ -1,7 +1,7 @@
 # Citation File Format (CFF) 1.2.0 — drives GitHub "Cite this repository".
 # Spec: https://citation-file-format.github.io/
 cff-version: 1.2.0
-title: "Consulting Thinking Capability System (AI-Native Consulting Methodology Series — Book I)"
+title: "Developing Consultant Thinking: A Capability Framework and Assessment Rubric for Turning Meeting Notes into Consulting Judgment"
 message: "If you use this work in your research or practice, please cite it as below."
 type: software
 authors:
@@ -10,8 +10,8 @@ authors:
     alias: "Morris Lu"
     affiliation: "Tiger AI (Independent Research)"
     orcid: "https://orcid.org/0009-0006-5373-0586"
-repository-code: "https://github.com/MorrisLu-Taipei/Consulting-Thinking-Capability-System"
-url: "https://github.com/MorrisLu-Taipei/Consulting-Thinking-Capability-System"
+repository-code: "https://github.com/MorrisLu-Taipei/consultant-thinking-framework"
+url: "https://github.com/MorrisLu-Taipei/consultant-thinking-framework"
 abstract: >
   An operationalized framework that turns meeting notes into consulting judgment.
   It makes consulting thinking trainable, scorable, and verifiable via a C1-C5
