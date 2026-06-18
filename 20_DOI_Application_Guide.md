@@ -57,21 +57,12 @@
 
 ---
 
-## 5. 目標期刊與投稿節奏(已做期刊地景分析)
-**學術標題(DOI/投稿用)**:*Developing Consultant Thinking: A Capability Framework and Assessment Rubric for Turning Meeting Notes into Consulting Judgment*。
-
-本作品卡在三領域交叉:**HRD/能力發展 × Design Science(設計科學:它是被設計的方法物件)× 管理教育/顧問實務**。期刊適配:
-
-| 期刊 | 適配 | 重點 |
-|---|---|---|
-| **HRDR**(Human Resource Development Review, SAGE)| **最高·首投** | **明文收「非實證概念性框架/新模型」→「尚未實證」不減分。** 用能力梯+rubric+教練 SOP 當「發展專業能力」的框架投。 |
-| **EJIS**(European J. of IS)| 高·第二棒 | DSR 老家;**等 `15` 實證跑完**,改寫成完整 DSR artifact-evaluation 再投(標題改用「A Subject×Time Matrix… A Design-Science Framework…」)。 |
-| **Management Consulting Journal**(ICMCI)| 中高·平行快投 | 主題最對口、實務可信度高;可平行投求快速落點。 |
-| AMLE / JME | 中高 | 當「可教的工具」(教育受眾)。AMLE 頂刊競爭激烈。 |
-| MISQ | 現在勿碰 | DSR 旗艦但要**完成的嚴格評估**,實證未跑前太早。 |
-
-**節奏**:① 現在用此標題 deposit Zenodo 拿 DOI → ② 投 HRDR(概念框架版)→ ③ 跑完 `15` 實證 → 改投 EJIS(完整 DSR)→ ④ MCJ 平行快投。投稿前跑 `hype-scrub`+`claim-audit`(`21`);審稿用 `reviewer-response`。
-> 教訓:**學術製品的名字要先研究目標期刊、分析定位後再定**,不是隨手取。
+## 5. 升級到期刊(未來,選做)
+1. 先跑 `15` 實證 → 有數據。
+2. 投合適的期刊(依研究成熟度與讀者選 venue),定位「operationalized framework + pilot validation」。
+3. 投稿前跑 `hype-scrub` + `claim-audit`(見 `21`),守誠實。
+4. 收到審稿意見用 `reviewer-response` 流程回覆。
+> 提示:**正式投稿前,先研究並比較目標期刊的範圍與命名慣例,再定標題與定位**(別隨手取名)。具體 venue 選擇與投稿節奏屬內部規劃,不寫進對外文件。
 
 ---
 ## 6. 防呆提醒

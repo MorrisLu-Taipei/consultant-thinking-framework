@@ -2,9 +2,6 @@
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE) [![DOI](https://img.shields.io/badge/DOI-pending-lightgrey.svg)](20_DOI_Application_Guide.md)
 
-> 📄 **學術標題(投稿 / DOI 用)**:*Developing Consultant Thinking: A Capability Framework and Assessment Rubric for Turning Meeting Notes into Consulting Judgment*。
-> **首投目標期刊:Human Resource Development Review (HRDR)**(收概念性框架/新模型,未實證不減分);實證跑完後改投 EJIS(完整 Design Science 版)。流程見 [`20_DOI_Application_Guide.md`](20_DOI_Application_Guide.md)。
-
 > 把**會議紀錄**變成**顧問判斷**。核心:**填滿格子不等於思考,價值在「對角線」。**
 > 作者:**Morris (Yeh-Hsing) Lu（盧業興）**｜affiliation: **Tiger AI**｜ORCID [0009-0006-5373-0586](https://orcid.org/0009-0006-5373-0586)
 
