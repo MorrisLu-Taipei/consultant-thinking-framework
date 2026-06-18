@@ -1,0 +1,20 @@
+Consulting Thinking Capability System (AI-Native Consulting Methodology Series — Book I)
+Copyright 2026 Morris (Yeh-Hsing) Lu 盧業興
+
+Author: Morris (Yeh-Hsing) Lu 盧業興 (affiliation: Tiger AI)
+ORCID: 0009-0006-5373-0586
+Role: n8n Taipei 大使 / 臺灣科技大學 智慧製造所博士生 / QUT 昆士蘭科技大學 資工碩士
+
+This project is licensed under the Apache License, Version 2.0.
+Please preserve this NOTICE file when redistributing this work or derivative works
+as required by the Apache License 2.0.
+
+Series: This repository is Book I ("Consulting Thinking Capability System" /
+From Meeting Notes to Consulting Judgment) of the AI-Native Consulting Methodology
+Series. Its companion, Book II ("From Consulting Judgment to Project Delivery" /
+GenAI Consulting Methodology Toolkit), is already published:
+  GitHub: https://github.com/MorrisLu-Taipei/GenAI-Consulting-Methodology-Toolkit
+  DOI (concept): 10.5281/zenodo.20261680 -- https://doi.org/10.5281/zenodo.20261680
+Book I will be deposited under its own DOI and cross-linked via Zenodo
+"Is part of this series" / "Is related to" relations. See CITATION.cff and
+20_DOI_Application_Guide.md.

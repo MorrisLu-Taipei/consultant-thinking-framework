@@ -1,0 +1,16 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*~
+.vscode/
+.idea/
+
+# 內部私有實作絕不外流(對外只用通用描述)
+# — 任何具名內部橋接 / token / 私有端點設定檔
+*runner*
+*claudectl*
+*.token
+.env
+.env.*
+secrets*.json
+_PRIVATE/

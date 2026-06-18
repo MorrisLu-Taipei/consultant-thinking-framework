@@ -1,0 +1,52 @@
+# Citation File Format (CFF) 1.2.0 — drives GitHub "Cite this repository".
+# Spec: https://citation-file-format.github.io/
+cff-version: 1.2.0
+title: "Consulting Thinking Capability System (AI-Native Consulting Methodology Series — Book I)"
+message: "If you use this work in your research or practice, please cite it as below."
+type: software
+authors:
+  - given-names: "Yeh-Hsing"
+    family-names: "Lu"
+    alias: "Morris Lu"
+    affiliation: "Tiger AI (Independent Research)"
+    orcid: "https://orcid.org/0009-0006-5373-0586"
+repository-code: "https://github.com/MorrisLu-Taipei/Consulting-Thinking-Capability-System"
+url: "https://github.com/MorrisLu-Taipei/Consulting-Thinking-Capability-System"
+abstract: >
+  An operationalized framework that turns meeting notes into consulting judgment.
+  It makes consulting thinking trainable, scorable, and verifiable via a C1-C5
+  consultant-capability ladder, a scoring rubric, a manager-coaching SOP, worked
+  examples, an empirical pre/post protocol, an AI-native interactive book, and an
+  AI coaching skill. It stands on Ohmae's 3C, TOWS, Temporal Competitive Analysis,
+  and the Kano model; it does NOT claim first-creation and is pending small-sample
+  empirical validation. This is Book I of the AI-Native Consulting Methodology
+  Series; its companion Book II ("GenAI Consulting Methodology Toolkit") is
+  published at DOI 10.5281/zenodo.20261680.
+keywords:
+  - consulting methodology series
+  - consulting capability
+  - C1-C5
+  - meeting notes to judgment
+  - diagonal reasoning
+  - 3C
+  - TOWS
+  - temporal competitive analysis
+  - AI-Native eBook
+  - capability rubric
+license: Apache-2.0
+version: "1.0.0"
+# date-released and doi will be filled after the Zenodo deposit (see 20_DOI_Application_Guide.md).
+# date-released: "2026-06-18"
+# doi: "10.5281/zenodo.XXXXXXXX"   # Book I concept DOI (to be reserved on Zenodo)
+references:
+  - type: software
+    title: "GenAI Consulting Methodology Toolkit (AI-Native Consulting Methodology Series — Book II)"
+    authors:
+      - given-names: "Yeh-Hsing"
+        family-names: "Lu"
+        alias: "Morris Lu"
+        affiliation: "Tiger AI (Independent Research)"
+        orcid: "https://orcid.org/0009-0006-5373-0586"
+    doi: "10.5281/zenodo.20261680"
+    url: "https://doi.org/10.5281/zenodo.20261680"
+    notes: "Companion Book II of the same series (already published)."
