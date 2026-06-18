@@ -55,10 +55,10 @@
 | 1 | As-Is | 現況快照 |
 | 2 | Reference Model | 參考模型對齊 |
 | 3 | Ideal Practice | 理想實務 |
-| 4 | Gap | 落差分析 |
+| 4 | Gap Analysis | 落差分析 |
 | 5 | Problem Definition | 問題定義 |
 | 6 | Phased Goals | 分階段目標 |
-| 7 | To-Be | 目標態設計 |
+| 7 | To-Be Design | 目標態設計 |
 | 8 | Implementation | 落地執行 |
 
 > ❌ 互動頁舊版寫的「Assessment→Course→Report→Scenarios→Sales→Build→Delivery→Support」**不是八階段**,那是「圖 D 目錄/接案流程」。已修正。
@@ -72,13 +72,12 @@
 | **B** | 策略 Strategy | **4 週** | 完整顧問診斷報告 + Roadmap + ROI + 治理 | Gate B:要不要進 C |
 | **C** | 落地 Implementation | **24 個月** | 轉型路徑圖 + 變革管理 + **每季回核 Stage 2 雷達** | Gate C:每季要不要續 |
 
-> **關於「Phase 含哪些 Stage 編號」**:這取決於用哪一套八階段命名(見 §2.5),目前 repo 有兩套,切分不同(`EIGHT_STAGE_FLOW_STORY` 約 A:1-3 / `03_README` 為 A:1-4 / B:5-8)。**在兩套八階段統一前,不要用「Stage 編號」定義 Phase,改用上表「時長+交付物」**——那才是無歧義的 canonical。
+> **Phase 含哪些 Stage(已定案)**:**Phase A = Stage 1–3、Phase B = Stage 4–7、Phase C = Stage 8**(每季回核 Stage 2 雷達)。階段名用 §2 圖 B 的甲。
 
-### 圖 B.5 / §2.5 — 兩套八階段命名(尚待統一,需 Founder 拍板)
-repo 目前同時存在兩套八階段:
-- **(甲)敘事/方法論本體**(`EIGHT_STAGE_FLOW_STORY.md`,本檔 §2 圖 B 採用):As-Is / Reference Model / Ideal Practice / Gap / Problem Definition / Phased Goals / To-Be / Implementation。
-- **(乙)報告生產子系統**(`03_Consulting_Report/` 的 README + `CONSULTING_TOOLKIT_TEMPLATES` + `REPORT_PRODUCTION_WORKFLOW` + `REPORT_TEMPLATE`):Awareness / Reference Model / Discovery / Gap Analysis / Stakeholder / Diagnosis / To-Be Design / Acceptance Test。
-> 使用者目前指定 **(甲)為系列層級權威**。但 (乙) 已被報告子系統多份 template 一致引用,**全面改名會連動多檔**,屬高風險,故列為**獨立追蹤任務 + 需 Founder 最終拍板「哪一套是唯一八階段」**(見 §4)。在拍板前:對外講「八階段」一律用 (甲);報告 template 內部維持 (乙) 並加註對照。
+### §2.5 — 八階段命名(已統一為甲,決議定案 2026-06-18)
+**唯一八階段 = 甲**(`EIGHT_STAGE_FLOW_STORY.md`,本檔 §2 圖 B):
+As-Is → Reference Model → Ideal Practice → Gap Analysis → Problem Definition → Phased Goals → To-Be Design → Implementation。
+> 舊的「報告生產子系統」曾用一套不同命名(乙:Awareness/Discovery/Stakeholder/Diagnosis/Acceptance Test),**已停用,全部遷移為甲**。對映:Awareness→As-Is、Discovery→Ideal Practice、Stakeholder→Problem Definition、Diagnosis→Phased Goals、Acceptance Test→Implementation(Reference Model / Gap Analysis / To-Be Design 兩邊同名)。任何文件再出現乙的階段名即為待修。
 
 ### 圖 D — 接案生命週期(Engagement Lifecycle,經營)
 **Sales → Delivery → Support(季度回看)**。本體在 **`06_Delivery/ENGAGEMENT_LIFECYCLE.md`**(不是 `08_Project_Managements`,後者只放 WBS 模板)。
@@ -97,5 +96,5 @@ repo 目前同時存在兩套八階段:
 - [x] 移除「Series II / 顧問系列 II / Book II (Series II)」寫法,改 Book I/II(§0)。
 - [x] repo 定位改「系列總庫」;接案生命週期指向 `06_Delivery/ENGAGEMENT_LIFECYCLE.md`(§Repo 定位、圖 D)。
 - [x] 兩個 Skill(thinking/delivery coach)裝進 repo `.claude/skills` 與 `.codex/skills`。
-- [ ] **⚠️ 需 Founder 拍板**:統一兩套八階段命名(§2.5 甲 vs 乙)。拍板後再同步 `03_Consulting_Report/` 子系統的 template。**這是目前唯一未決的 canonical 問題。**
-- [ ] (拍板後)`03_Consulting_Report/README.md` 與 templates 的八階段命名與 Phase→Stage 切分對齊定案版本。
+- [x] **八階段命名定案:統一為甲**(2026-06-18 Founder 拍板,§2.5)。Phase→Stage = A:1-3 / B:4-7 / C:8(每季回核 Stage 2)。
+- [x] `03_Consulting_Report/`(README 多語 + `CONSULTING_TOOLKIT_TEMPLATES`/`REPORT_PRODUCTION_WORKFLOW`/`REPORT_TEMPLATE`/`FRAMEWORKS_LIBRARY`)八階段名與 Phase 切分遷移為甲。
