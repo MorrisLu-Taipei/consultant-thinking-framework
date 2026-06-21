@@ -31,7 +31,7 @@
 - **關鍵字**:consulting methodology;capability framework;3C;TOWS;Kano;diagonal synthesis;assessment rubric;AI-native ebook
 - **授權**:**Apache License 2.0**(與你們既有一致)
 - **版本**:v0.1(或 v1.0 release candidate)
-- **檔案**:PDF(由 `13` ebook 匯出)+ 互動 `17_Interactive_Site.html` + 可選 `CITATION.cff`
+- **檔案**:**PDF —— LaTeX 排版(由 `13` ebook 用 `pandoc + xelatex` 匯出,非瀏覽器另存)**;DOI 是永久學術產物,排版要像 preprint。指令與注意事項見 skill `consulting-thinking-coach`〈出版 / DOI deposit 輸出規範〉。+ 互動 `17_Interactive_Site.html` + 可選 `CITATION.cff`
 - **關聯**:Related identifiers → 「Is supplement to」既有 toolkit DOI;「Is derived from」本 GitHub repo
 
 ---
