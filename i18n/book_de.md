@@ -1,7 +1,7 @@
 # System zur Beratungs-Denkkompetenz
 *Ein operationalisierter Rahmen zur Entwicklung und Bewertung beraterischen Denkens*
 
-Autor: Morris (Yeh-Hsing) Lu · LinkedIn · ORCID 0009-0006-5373-0586 · Apache License 2.0
+Autor: Morris (Yeh-Hsing) Lu · [LinkedIn](https://www.linkedin.com/in/morris-lu-89144821/) · ORCID 0009-0006-5373-0586 · Text: CC BY-NC-ND 4.0
 
 > **Leitstern.** Ich möchte nicht, dass Sie sich merken, was der Kunde gesagt hat — ich möchte, dass Sie beurteilen, was der Kunde **wirklich braucht** und wie wir den **nächsten Schritt gewinnen**.
 

@@ -1,7 +1,7 @@
 # Sistema de Capacidad de Pensamiento del Consultor
 *Un marco operacionalizado para desarrollar y evaluar el pensamiento del consultor*
 
-Autor: Morris (Yeh-Hsing) Lu · LinkedIn · ORCID 0009-0006-5373-0586 · Apache License 2.0
+Autor: Morris (Yeh-Hsing) Lu · [LinkedIn](https://www.linkedin.com/in/morris-lu-89144821/) · ORCID 0009-0006-5373-0586 · Text: CC BY-NC-ND 4.0
 
 > **Estrella polar.** No quiero que recuerdes lo que dijo el cliente, quiero que juzgues lo que el cliente **realmente necesita** y cómo **ganar el siguiente paso**.
 

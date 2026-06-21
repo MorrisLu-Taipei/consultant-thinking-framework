@@ -1,7 +1,7 @@
 # 顧問思考能力系統(Consulting Thinking Capability System)—— INDEX
 
 > 建立:2026-06-18 ｜ 顧問方法論家族新模組(承 C1-C5 + 八階段)(顧問能力 C1-C5,有別於下集企業成熟度 L1-L5)
-> **對外定位(主打)**:不是「新策略框架」,是**把顧問思考操作化成「可訓練、可評分、可驗證」的能力養成系統**(C1-C5 + rubric + 教練 SOP + 前後測)。核心不是填格子,是**畫對角線**。
+> **對外定位(主打)**:不是「新策略框架」,是**把顧問思考操作化成「可被訓練、可被評分、可透過前後測驗證」的能力養成系統**(C1-C5 + rubric + 教練 SOP + 前後測)。核心不是填格子,是**畫對角線**。
 > 學術名:*An Operationalized Framework for Consulting Thinking Development and Assessment*。創新四層見 `06 §5.5`。
 
 ## 這個模組解決的問題

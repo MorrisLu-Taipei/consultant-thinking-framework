@@ -1,11 +1,11 @@
 # Consulting Thinking Capability System
 *An operationalized framework for consulting thinking development and assessment*
 
-Author: Morris (Yeh-Hsing) Lu · LinkedIn · ORCID 0009-0006-5373-0586 · Apache License 2.0
+Author: Morris (Yeh-Hsing) Lu · [LinkedIn](https://www.linkedin.com/in/morris-lu-89144821/) · ORCID 0009-0006-5373-0586 · Text: CC BY-NC-ND 4.0
 
 > **North star.** I don't want you to remember what the client said — I want you to judge what the client truly needs, and how we win the next step.
 
-**Honest positioning.** This is not a new strategy framework. It is a system that makes consulting thinking *trainable, scorable, and verifiable*. It builds on Ohmae's 3C, TOWS, Temporal Competitive Analysis, and the Kano model; its contribution is (a) placing subject × time on one orthogonal grid, and (b) selective "diagonal" synthesis. It has **not yet been empirically validated**.
+**Honest positioning.** This is not a new strategy framework. It is a system that makes consulting thinking *trainable and scorable, with effects verifiable through pre/post testing*. It builds on Ohmae's 3C, TOWS, Temporal Competitive Analysis, and the Kano model; its contribution is (a) placing subject × time on one orthogonal grid, and (b) selective "diagonal" synthesis. It has **not yet been empirically validated**.
 
 ## 1. The matrix
 Four lenses — **Customer, Competitor, Company (us), Environment** — across three times: **Past (cause), Present (need), Future (solution)**. Mark each cell:

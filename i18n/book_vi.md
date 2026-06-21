@@ -1,7 +1,7 @@
 # Hệ thống Năng lực Tư duy Tư vấn
 *Một khung được vận hành hóa để phát triển và đánh giá tư duy tư vấn*
 
-Tác giả: Morris (Yeh-Hsing) Lu · LinkedIn · ORCID 0009-0006-5373-0586 · Apache License 2.0
+Tác giả: Morris (Yeh-Hsing) Lu · [LinkedIn](https://www.linkedin.com/in/morris-lu-89144821/) · ORCID 0009-0006-5373-0586 · Text: CC BY-NC-ND 4.0
 
 > **Sao Bắc Đẩu.** Tôi không muốn bạn ghi nhớ khách hàng đã nói gì — tôi muốn bạn **phán đoán khách hàng thực sự cần gì** và làm sao để **thắng ở bước tiếp theo**.
 

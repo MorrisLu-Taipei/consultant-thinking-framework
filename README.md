@@ -7,7 +7,7 @@
 > 作者:**Morris (Yeh-Hsing) Lu（盧業興）**｜affiliation: **Tiger AI**｜ORCID [0009-0006-5373-0586](https://orcid.org/0009-0006-5373-0586)
 
 這是 **AI-Native 顧問方法論系列**的 **上集 / Book I**:訓練「顧問怎麼想」。
-把顧問思考**操作化成可訓練、可評分、可驗證的能力系統**(C1–C5 + rubric + 教練 SOP + 前後測),站在 Ohmae 3C、TOWS、Temporal Competitive Analysis、Kano 的肩上;**未宣稱首創、尚待小樣本實證**。
+把顧問思考**操作化成可被訓練、可被評分、可透過前後測驗證的能力系統**(C1–C5 + rubric + 教練 SOP + 前後測),站在 Ohmae 3C、TOWS、Temporal Competitive Analysis、Kano 的肩上;**未宣稱首創、尚待小樣本實證**。
 
 ## 📚 系列關係(上集 ↔ 下集)
 | | 本 repo = 上集 Book I | 下集 Book II(已發布) |
@@ -34,11 +34,11 @@
 - **防呆**:無對角線封頂 C3;只回答客戶問的最多 C4。
 
 ## 📄 授權與引用
-- **授權**:[Apache License 2.0](LICENSE)(文字與軟體一致)。再散布請保留 [`NOTICE`](NOTICE)。
+- **授權(雙軌)**:**程式碼 / skill / 模板 = [Apache License 2.0](LICENSE)**;**書稿文本與 PDF(`13_AI_Native_Ebook`、`i18n/`)= CC BY-NC-ND 4.0**(姓名標示／非商業／禁止改作)。詳見 [`LICENSE-TEXT.md`](LICENSE-TEXT.md);再散布請保留 [`NOTICE`](NOTICE)。
 - **引用**:見 [`CITATION.cff`](CITATION.cff)。DOI 取得流程見 [`20_DOI_Application_Guide.md`](20_DOI_Application_Guide.md)(deposit 後回填 badge 與 CITATION)。
 
 > **誠實揭露**:本書方法論為實務綜合,**尚未經小樣本前後測驗證**;範例為 **AI-Simulated**(用 ABC公司 / 城市X 等代稱),非真實客戶資料;**未宣稱 peer-reviewed**。
 
 ---
 ### English (brief)
-**Book I of the AI-Native Consulting Methodology Series** — *Consulting Thinking Capability System*. Turns meeting notes into consulting judgment; operationalizes consulting thinking into a trainable/scorable/verifiable capability ladder (**C1–C5**). Companion **Book II** (already published): [GitHub](https://github.com/MorrisLu-Taipei/GenAI-Consulting-Methodology-Toolkit) · [DOI 10.5281/zenodo.20261680](https://doi.org/10.5281/zenodo.20261680). Author: Morris (Yeh-Hsing) Lu · Tiger AI · Apache 2.0. Honest disclosure: methodology synthesis pending small-sample validation; cases are AI-Simulated; not peer-reviewed. Start: open `17_Interactive_Site_EN.html`.
+**Book I of the AI-Native Consulting Methodology Series** — *Consulting Thinking Capability System*. Turns meeting notes into consulting judgment; operationalizes consulting thinking into a capability ladder (**C1–C5**) that is trainable and scorable, with effects verifiable through pre/post testing. Companion **Book II** (already published): [GitHub](https://github.com/MorrisLu-Taipei/GenAI-Consulting-Methodology-Toolkit) · [DOI 10.5281/zenodo.20261680](https://doi.org/10.5281/zenodo.20261680). Author: Morris (Yeh-Hsing) Lu · Tiger AI. Dual-licensed: code/skill = Apache 2.0, book text/PDF = CC BY-NC-ND 4.0 (see `LICENSE-TEXT.md`). Honest disclosure: framework synthesis, pending small-sample validation; cases are AI-Simulated; not peer-reviewed. Start: open `17_Interactive_Site_EN.html`.

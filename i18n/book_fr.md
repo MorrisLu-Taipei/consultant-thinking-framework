@@ -1,7 +1,7 @@
 # Système de capacité de pensée du consultant
 *Un cadre opérationnalisé pour développer et évaluer la pensée du consultant*
 
-Auteur : Morris (Yeh-Hsing) Lu · LinkedIn · ORCID 0009-0006-5373-0586 · Apache License 2.0
+Auteur : Morris (Yeh-Hsing) Lu · [LinkedIn](https://www.linkedin.com/in/morris-lu-89144821/) · ORCID 0009-0006-5373-0586 · Text: CC BY-NC-ND 4.0
 
 > **Étoile polaire.** Je ne veux pas que vous reteniez ce que le client a dit — je veux que vous jugiez ce dont le client a **vraiment besoin**, et comment **gagner la prochaine étape**.
 

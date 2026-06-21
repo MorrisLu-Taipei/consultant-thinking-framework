@@ -14,7 +14,7 @@ repository-code: "https://github.com/MorrisLu-Taipei/consultant-thinking-framewo
 url: "https://github.com/MorrisLu-Taipei/consultant-thinking-framework"
 abstract: >
   An operationalized framework that turns meeting notes into consulting judgment.
-  It makes consulting thinking trainable, scorable, and verifiable via a C1-C5
+  It makes consulting thinking trainable and scorable, with effects verifiable through pre/post testing via a C1-C5
   consultant-capability ladder, a scoring rubric, a manager-coaching SOP, worked
   examples, an empirical pre/post protocol, an AI-native interactive book, and an
   AI coaching skill. It stands on Ohmae's 3C, TOWS, Temporal Competitive Analysis,

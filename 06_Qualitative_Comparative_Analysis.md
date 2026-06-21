@@ -109,7 +109,7 @@
 **對外定位(取代「全新策略方法論」)**:
 - 英文名:**Consulting Thinking Capability System**;學術版:**An Operationalized Framework for Consulting Thinking Development and Assessment**。
 - 中文主張(canonical):
-  > 本方法不是單一策略框架,而是一套**將顧問思考拆解為可訓練、可評分、可驗證能力的教學系統**。其創新不在於取代 3C、TOWS 或 Kano,而在於把這些方法整合進「**主體 × 時態 × 對角線推理**」的操作流程,並透過 **C1-C5 能力階梯、rubric 與前後測 protocol**,使顧問能力可以被訓練與管理。
+  > 本方法不是單一策略框架,而是一套**將顧問思考拆解為可被訓練、可被評分、可透過前後測驗證能力的教學系統**。其創新不在於取代 3C、TOWS 或 Kano,而在於把這些方法整合進「**主體 × 時態 × 對角線推理**」的操作流程,並透過 **C1-C5 能力階梯、rubric 與前後測 protocol**,使顧問能力可以被訓練與管理。
 
 > 為什麼這個主張更硬:framework 之爭(誰先誰後)永遠有人吵;但「**把它操作化成可訓練可評分可驗證的系統**」這件事,沒有對標方法論做過(3C/TOWS/Kano 都沒附 rubric + 能力階梯 + 前後測)。**操作化本身就是貢獻。**
 

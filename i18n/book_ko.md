@@ -1,7 +1,7 @@
 # 컨설팅 사고력 시스템
 *컨설팅 사고를 육성하고 평가하기 위한 운용 가능한 프레임워크*
 
-저자: Morris (Yeh-Hsing) Lu · LinkedIn · ORCID 0009-0006-5373-0586 · Apache License 2.0
+저자: Morris (Yeh-Hsing) Lu · [LinkedIn](https://www.linkedin.com/in/morris-lu-89144821/) · ORCID 0009-0006-5373-0586 · Text: CC BY-NC-ND 4.0
 
 > **북극성(지침).** 고객이 "무엇을 말했는지" 기억하길 바라는 게 아니다. 고객이 **진짜로 무엇을 필요로 하는지**, 그리고 **다음 수로 어떻게 이길지**를 판단하길 바란다.
 

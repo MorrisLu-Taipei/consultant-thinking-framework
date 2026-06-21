@@ -1,7 +1,7 @@
 # 對標方法論:比較與吸收(站在巨人肩上)
 
 > 研究法:WebSearch(2026-06-18),逐框架附權威來源。
-> 結論先講:**沒有任何既有方法論同時鎖住「主體×時態」兩軸再做對角線。** 既有框架幾乎都只覆蓋本矩陣的「一行」或「一列」。
+> 結論先講:在本次 desk research(2026-06-18)範圍內,**未見任何既有方法論同時鎖住「主體×時態」兩軸再做對角線**。 既有框架幾乎都只覆蓋本矩陣的「一行」或「一列」。
 
 ---
 
@@ -30,7 +30,7 @@
 
 > ⚠️ **不是「全新空白/全球首創」**,而是「成熟零件的新組合」。三個零件都有人做過(3C / Temporal Competitive Analysis / TOWS),但**沒人把它們組成同一張「主體×時態正交網格 + 對角線」**。
 
-1. **特定組合查無先例**:把 Customer/Competitor/Company 攤成「過去/現在/未來」的完整正交矩陣,desk research 未見既有框架(3C 從沒上時間軸、Temporal 只做對手一條、stakeholder×time 非具名框架)。
+1. **特定組合(本次 desk research 範圍內)查無先例**:把 Customer/Competitor/Company 攤成「過去/現在/未來」的完整正交矩陣,desk research 未見既有框架(3C 從沒上時間軸、Temporal 只做對手一條、stakeholder×time 非具名框架)。
 2. **對角線的策略先例只有 TOWS**:TOWS 是窮舉式 2×2 內外交叉;我們升級成「跨主體×跨時態的**選擇性**對角線」——有原創味,但須正面回應「這是 TOWS 換軸」的批評(見 `06` §5)。
 3. **「沒說出口」要時態化**:JTBD+Kano 證明 latent needs 是真學問;我們的差異是**把 Kano 的演化定律正式接到主體矩陣上**。
 
@@ -46,3 +46,27 @@
 
 ---
 📌 研究原始輸出:本機 runner WebSearch(2026-06-18)。連結為當時查得,引用時標註框架原始出處年份。
+
+---
+
+## 四、原始出處 / Primary Sources(供 preprint / DOI 引用)
+
+> 上表「來源」欄為查證用的便捷連結(部分為 Wikipedia / Umbrex / ModelThinkers / MindTools 等二手整理)。正式 preprint / DOI 引用時改用下列**一手出處**(頁碼與版本以投稿前再核對為準)。
+
+- **3C** — Ohmae, K. (1982). *The Mind of the Strategist: The Art of Japanese Business*. McGraw-Hill.
+- **Three Horizons** — Baghai, M., Coley, S., & White, D. (1999). *The Alchemy of Growth*. Perseus Books (McKinsey).
+- **PEST / 環境掃描** — Aguilar, F. J. (1967). *Scanning the Business Environment*. Macmillan.（PESTEL 為後人擴充）
+- **Five Forces** — Porter, M. E. (1979). "How Competitive Forces Shape Strategy." *Harvard Business Review*, 57(2), 137–145.(更新版:Porter, M. E. (2008). *HBR*, 86(1), 78–93.)
+- **JTBD** — Christensen, C. M., Cook, S., & Hall, T. (2005). "Marketing Malpractice: The Cause and the Cure." *Harvard Business Review*, 83(12);Ulwick, A. W. (2005). *What Customers Want*. McGraw-Hill.
+- **Kano Model** — Kano, N., Seraku, N., Takahashi, F., & Tsuji, S. (1984). "Attractive Quality and Must-Be Quality." *Journal of the Japanese Society for Quality Control*, 14(2), 39–48.
+- **Scenario Planning** — Wack, P. (1985). "Scenarios: Uncharted Waters Ahead." *Harvard Business Review*, 63(5), 73–89.
+- **Wardley Mapping** — Wardley, S. (2015–, online book) *Wardley Maps*(概念自 ~2005 起發展)。
+- **TOWS Matrix** — Weihrich, H. (1982). "The TOWS Matrix—A Tool for Situational Analysis." *Long Range Planning*, 15(2), 54–66.
+- **Minto / SCQA** — Minto, B. (1987). *The Pyramid Principle: Logic in Writing and Thinking*. Pitman/FT Prentice Hall.
+- **Ladder of Inference** — Argyris, C. (1990). *Overcoming Organizational Defenses*. Allyn & Bacon;普及自 Senge, P. (1990). *The Fifth Discipline*. Doubleday.
+- **Time-based Competition(BCG「時基」)** — Stalk, G., & Hout, T. M. (1990). *Competing Against Time*. Free Press.
+- **Cynefin** — Snowden, D. J., & Boone, M. E. (2007). "A Leader's Framework for Decision Making." *Harvard Business Review*, 85(11), 68–76.
+- **OODA Loop** — Boyd, J. R. (1976–1996). *A Discourse on Winning and Losing*(簡報);評述見 Osinga, F. (2007). *Science, Strategy and War*. Routledge.
+- **Temporal Competitive Analysis** — ⚠️ **業界／顧問公司概念(Concept Bureau, J. Bina),非同行評審學術文獻**;最接近的學術親緣為上列 time-based competition(Stalk & Hout, 1990)。引用時應如實標示為 industry source,不可當作 peer-reviewed 理論。
+
+> 一手 vs 二手:**3C、Five Forces、Kano、TOWS、Scenario、Cynefin、SCQA、Ladder of Inference** 皆有可查的一手文獻;**Temporal Competitive Analysis** 僅有業界來源,務必如實標註。

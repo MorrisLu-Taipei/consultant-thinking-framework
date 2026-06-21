@@ -27,9 +27,12 @@
 ## 2. 上傳前要備好的(metadata 清單)
 - **標題**:Consulting Thinking Capability System: An Operationalized Framework for Consulting Thinking Development and Assessment
 - **作者 + ORCID**:Morris (Yeh-Hsing) Lu,ORCID 0009-0006-5373-0586(**個人,非機構**)
-- **摘要**(用 `06 §5.5` 的誠實主張當骨架:不是新框架,是把既有框架操作化成可訓練/評分/驗證的系統)
+- **摘要**(用 `06 §5.5` 的誠實主張當骨架:不是新框架,是把既有框架操作化成可被訓練/可被評分/可透過前後測驗證的系統)
 - **關鍵字**:consulting methodology;capability framework;3C;TOWS;Kano;diagonal synthesis;assessment rubric;AI-native ebook
-- **授權**:**Apache License 2.0**(與你們既有一致)
+- **授權(雙軌,deposit 時依上傳物選對)**:
+  - **書稿 PDF preprint** → **CC BY-NC-ND 4.0**(姓名標示／非商業／禁止改作;保留商業控制權)。
+  - **GitHub repo release(含程式碼/skill)** → **Apache License 2.0**。
+  - ⚠️ **Zenodo 的 License 是必填欄位,且預設 CC-BY(可商用、可改作)** —— 上傳書稿 PDF 時**務必改成 CC BY-NC-ND 4.0**,別用預設,否則等於放掉商用與改作控制。見 Zenodo 官方說明:<https://help.zenodo.org/docs/deposit/describe-records/licenses/>。詳見 `LICENSE-TEXT.md`。
 - **版本**:v0.1(或 v1.0 release candidate)
 - **檔案**:**PDF —— LaTeX 排版(由 `13` ebook 用 `pandoc + xelatex` 匯出,非瀏覽器另存)**;DOI 是永久學術產物,排版要像 preprint。指令與注意事項見 skill `consulting-thinking-coach`〈出版 / DOI deposit 輸出規範〉。+ 互動 `17_Interactive_Site.html` + 可選 `CITATION.cff`
 - **關聯**:Related identifiers → 「Is supplement to」既有 toolkit DOI;「Is derived from」本 GitHub repo
@@ -41,7 +44,7 @@
 2. New upload → 拖入 PDF/HTML。
 3. 填 metadata:Resource type = **Publication › Preprint**(或 Working paper);填上 §2 清單。
 4. Authors 填 Morris (Yeh-Hsing) Lu + ORCID;**不要填機構為作者**。
-5. License 選 **Apache License 2.0**。
+5. License **改掉預設 CC-BY** → 書稿 PDF 選 **CC BY-NC-ND 4.0**(repo release 才用 Apache 2.0)。
 6. (建議)綁 GitHub:Zenodo↔GitHub 開啟後,**在 GitHub 發一個 release**,Zenodo 自動 archive 並給 version DOI;同時自動產生 **concept DOI(永遠指最新版)**。
 7. Publish → 立刻得到 DOI。
 8. 把 DOI 寫回 `13 附錄 C` 與本檔。

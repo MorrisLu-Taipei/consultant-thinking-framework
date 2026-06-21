@@ -76,7 +76,7 @@
 - 輸出收斂:**Minto / SCQA**(把對角線洞見放金字塔頂當「答案」)
 
 > **誠實定位(經 prior-art 查證)**:這**不是全球首創策略框架**。對外**不主打「新框架」,主打「能力系統」**:
-> > **Consulting Thinking Capability System** —— 把既有策略框架(3C/TOWS/Three Horizons/JTBD/Kano…)整合進「主體×時態×對角線推理」的操作流程,並用 **C1-C5 + rubric + 教練 SOP + 前後測 protocol** 讓顧問思考**可訓練、可評分、可驗證**。
+> > **Consulting Thinking Capability System** —— 把既有策略框架(3C/TOWS/Three Horizons/JTBD/Kano…)整合進「主體×時態×對角線推理」的操作流程,並用 **C1-C5 + rubric + 教練 SOP + 前後測 protocol** 讓顧問思考**可被訓練、可被評分、可透過前後測驗證**。
 > 創新分四層(框架組合 / 對角線推理 / 需求洞察可訓練化 / **教育系統 ⭐ 主打**),完整見 `06 §5.5`。**矩陣是組合創新;真正的貢獻是把它操作化成系統。**
 
 ---

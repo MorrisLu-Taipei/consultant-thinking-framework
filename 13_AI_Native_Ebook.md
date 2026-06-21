@@ -1,11 +1,16 @@
 # 從會議紀錄到顧問判斷:顧問思考能力系統的 AI-Native 共讀本
 ## Consulting Thinking Capability System — 一本「主動書」(AI-Native eBook)
 
-> 作者:**Morris (Yeh-Hsing) Lu**(盧業興)｜LinkedIn ｜ ORCID 0009-0006-5373-0586 ｜版本:0.1 draft（2026-06-18）
-> 授權:Apache License 2.0 ｜ DOI:待 deposit(Zenodo / OSF)
-> **定位(對外主打,誠實)**:這**不是新策略框架**,是一套**將顧問思考拆解為可訓練、可評分、可驗證能力的教學系統**。創新不在取代 3C/TOWS/Kano,而在**把它們整合進「主體×時態×對角線推理」的操作流程,並用 C1-C5 + rubric + 前後測讓顧問能力可被訓練與管理**。學術名:*An Operationalized Framework for Consulting Thinking Development and Assessment*。完整原創性四層見 `06 §5.5`。
+> 作者:**Morris (Yeh-Hsing) Lu**(盧業興)｜[LinkedIn](https://www.linkedin.com/in/morris-lu-89144821/) ｜ ORCID 0009-0006-5373-0586 ｜版本:0.1 draft（2026-06-18）
+> 授權:**書稿文本 = CC BY-NC-ND 4.0**(姓名標示／非商業／禁止改作)｜**程式碼·skill·模板 = Apache License 2.0** ｜ DOI:待 deposit(Zenodo / OSF;**尚未出版**)
+> **定位(對外主打,誠實)**:這**不是新策略框架**,是一套**將顧問思考拆解為可被訓練、可被評分、可透過前後測驗證能力的教學系統**。創新不在取代 3C/TOWS/Kano,而在**把它們整合進「主體×時態×對角線推理」的操作流程,並用 C1-C5 + rubric + 前後測讓顧問能力可被訓練與管理**。學術名:*An Operationalized Framework for Consulting Thinking Development and Assessment*。完整原創性四層見 `06 §5.5`。
 
 ---
+
+## ⚠️ 聲明 / Disclaimer
+本文件為 **draft v0.1**,目的為方法論的**公開存證、優先權時間戳與學術／實務交流**。本文目前屬 **framework synthesis 與教學操作設計(teaching draft · AI-native 共讀本)**,**尚未完成正式實證研究**;**不得**解讀為已經同行評審、或已完成成效驗證之研究論文。書中範例為 **AI-Simulated**(虛構代稱,如 ABC公司／城市X),非真實客戶資料。
+
+*This document is a draft (v0.1) for public timestamping, priority, and academic/practitioner exchange. It is a **framework synthesis and teaching design** — **not** yet empirically validated, **not** peer-reviewed, and must not be read as a validated study. Examples are AI-simulated, not real client data.*
 
 ## 這本書為什麼是「主動的」
 
@@ -105,7 +110,7 @@
 
 ## 附錄 C 引用與 DOI
 - 建議引用:Lu, M. (Yeh-Hsing) (2026). *Consulting Thinking Capability System*. [Preprint]. Zenodo. [待 deposit DOI]
-- 作者:**Morris (Yeh-Hsing) Lu**｜LinkedIn｜ORCID 0009-0006-5373-0586(作者為個人,非機構)。
+- 作者:**Morris (Yeh-Hsing) Lu**｜[LinkedIn](https://www.linkedin.com/in/morris-lu-89144821/)｜ORCID 0009-0006-5373-0586(作者為個人,非機構)。
 - DOI 規劃與步驟:見 `20_DOI_Application_Guide.md`。先以 framework-synthesis working paper 取得 concept DOI(可引用、卡優先權),實證後出 v2。
 
 ---

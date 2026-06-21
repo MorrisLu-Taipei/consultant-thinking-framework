@@ -1,7 +1,7 @@
 # コンサルティング思考力システム
 *コンサルティング思考を育成・評価するための運用可能なフレームワーク*
 
-著者:Morris (Yeh-Hsing) Lu · LinkedIn · ORCID 0009-0006-5373-0586 · Apache License 2.0
+著者:Morris (Yeh-Hsing) Lu · [LinkedIn](https://www.linkedin.com/in/morris-lu-89144821/) · ORCID 0009-0006-5373-0586 · Text: CC BY-NC-ND 4.0
 
 > **指針(North Star)。** クライアントが「何を言ったか」を覚えてほしいのではない。クライアントが**本当に必要としているもの**と、**次の一手でどう勝つか**を判断してほしい。
 
